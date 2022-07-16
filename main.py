@@ -1,6 +1,6 @@
 from collections import deque
 import time
-from random import radnint
+from random import randint
 
 # Задание 1
 
